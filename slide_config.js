@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Title Goes Here<br>Up To Two Lines',
-    subtitle: 'Subtitle Goes Here',
+    title: 'How I met Jacob Risse',
+    subtitle: 'A loooong time ago',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
